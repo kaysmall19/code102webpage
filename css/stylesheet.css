@@ -1,3 +1,19 @@
-h2
-color: red;
-text-align: center;
+body {
+    background-color: gray;
+  }
+  h1 {
+    color: red;
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 20%;
+  }
+  p {
+    color: rgb(7, 7, 7);
+    font-family: Verdana;
+    font-size: 16%;
+  }
