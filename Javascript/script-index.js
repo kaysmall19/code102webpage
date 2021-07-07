@@ -1,13 +1,8 @@
-alert("Welcome");
-if (confirm("are you ==21?")) {
-var txt = "Good!";
-alert{text};
-console.log{text}
-}else {
-var txt = "No";
-console.log{text};
+/*if(userAge < 21){
+    if(userAge > 21){
+       
+    }
+    alert("How old are you?");
 }
+console.log(userAge)*/
 
-function getUserAge(21=='21')
-var userAge= prompt("What is your age?");
-console.log{userAge}

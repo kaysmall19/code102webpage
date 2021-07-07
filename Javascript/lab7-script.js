@@ -1,6 +1,4 @@
-function guessinggame 
- guessNumber = prompt("guess a number between 1 and 10");
-if (
-guessedNumber==9); {
-return true};
-else {return (false);}
+if(userAge < 18){
+    alert("You are not allowed in this resturant.");
+}
+console.log(userAge < 18)
