@@ -10,4 +10,4 @@ function guessGame(correct_numnber){
     else(
         alert("You guessed correctly");
     )
-}git 
+}
