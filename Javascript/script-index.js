@@ -3,7 +3,7 @@ if(userAge < 21){
     }
     alert("How old are you?");
 }
-console.log(userAge)
+console.log(userAge);
 
 function userAge(){
     let question = prompt("What is your age?");
@@ -13,4 +13,4 @@ function userAge(){
         }
     alert("Please enter your age");
     }
-    console.log(userAge < 18)
+    console.log(userAge < 18);
